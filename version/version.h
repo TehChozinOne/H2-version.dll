@@ -1,4 +1,5 @@
 // DLLForward by itisluiz v1.2.1.2
+// Compile on 8/03/24 7:02PM
 #pragma once
 #include <cstdint>
 #include <Windows.h>
